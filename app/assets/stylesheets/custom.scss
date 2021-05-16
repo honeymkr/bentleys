@@ -16,10 +16,15 @@
     padding: 0 10px;
   }  
 
-  #logo {
+  #logo img{
     position: relative;
     top: 5px;
     left: 0px;
+    width:150px;
+  }
+
+  #fblink a img{
+    width:110px;
   }
 
   .navbar{ 
@@ -115,7 +120,13 @@ h1, h2, h3, h4, h5, h6 {
     top: 5px;
     left: 0px;
   }
-
+  #logo img {
+    width: 180px;
+  }
+ 
+  #fblink a img{
+    width:120px;
+  }
 
  }
 
@@ -125,6 +136,13 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     top: 5px;
     left: -90px;
+    margin-bottom: 20px;
+  }
+  #logo img {
+    width: 180px;
+  }
+  #fblink a img{
+    width:150px;
   }
 
  }
@@ -135,8 +153,14 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     top: 5px;
     left: -180px;
+    margin-bottom: 20px;
   }
-
+  #logo img {
+    width: 220px;
+  }
+  #fblink img{
+    width:160px;
+  }
  }
 
 // X-Large devices (large desktops, 1200px and up)
@@ -145,7 +169,15 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     top: 5px;
     left: -200px;
+    margin-bottom: 20px;
   }
+  #logo img {
+    width: 240px;
+  }
+  #fblink a img{
+    width:150px;
+  }
+
 
  }
 
@@ -155,6 +187,13 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     top: 5px;
     left: -200px;
+    margin-bottom: 20px;
+  }
+  #logo img {
+    width: 260px;
+  }
+  #fblink a img{
+    width:150px;
   }
 
  }
