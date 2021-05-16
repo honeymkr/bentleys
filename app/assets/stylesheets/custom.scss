@@ -76,6 +76,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 2.7em;
     letter-spacing: -2px;
     margin-bottom: 30px;
+    color:indigo;
     
   }
   
@@ -85,13 +86,31 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 30px;
     
     font-weight: normal;
-    color: #777;
+    color: indigo;
   }
   
   p {
     font-size: 1.1em;
     line-height: 1.7em;
   }
+
+
+ul li h4 {
+ color:rgb(150, 3, 3);
+}
+ul li small {
+  color:rgb(3, 150, 106);
+ }
+
+ footer h3 {
+   color:rgb(185, 121, 0);
+ }
+
+ span {
+   font-size: 1.3rem;
+ }
+
+
 
   #menu{
     background-color: rgb(245, 245, 245);
