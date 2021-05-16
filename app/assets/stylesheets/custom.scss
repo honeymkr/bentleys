@@ -4,12 +4,13 @@
 /* universal */
 
   header {
-   /* position: fixed;*/
+    position: fixed;
     z-index: 10;
     height: 90px;
     width: 100%;
     background-color: black;
     color: #fff;
+ 
     display: flex;
     align-items: center;
     justify-content: space-between;
